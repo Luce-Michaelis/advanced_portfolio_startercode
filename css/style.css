@@ -3,11 +3,36 @@
 
 /* Header CSS */
 
+#title{
+    color: mediumseagreen;
+    font-family: 'Orbitron', sans-serif;
 
-
+    
+}
 /* Section CSS */
-
-
+#name{
+ font-family: 'Libre Barcode 39 Text', cursive;
+ font-size: 45px;
+;
+}
+#about-me-menu{
+    font-family: 'Cabin Sketch', cursive;
+    
+}
+#project-links{
+   font-family: 'Cabin Sketch', cursive;
+}
+#extra{
+    font-family: 'Zilla Slab Highlight', cursive;
+}
+ #navbarDropdown{
+     font-family: 'Special Elite', cursive;
+     /*font-family: 'Handlee', cursive;*/
+ }
+ #menu{
+     font-family: 'Special Elite', cursive;
+     
+ }
 
 /* About Section CSS */
 
