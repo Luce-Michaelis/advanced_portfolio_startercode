@@ -6,6 +6,7 @@
 #title{
     color: mediumseagreen;
     font-family: 'Orbitron', sans-serif;
+    font-size: 60px;
 
     
 }
@@ -17,21 +18,47 @@
 }
 #about-me-menu{
     font-family: 'Cabin Sketch', cursive;
+    font-size: 35px;
     
 }
 #project-links{
    font-family: 'Cabin Sketch', cursive;
+    font-size: 35px;
 }
 #extra{
     font-family: 'Zilla Slab Highlight', cursive;
+     font-size: 35px;
 }
  #navbarDropdown{
      font-family: 'Special Elite', cursive;
+      font-size: 35px;
      /*font-family: 'Handlee', cursive;*/
  }
  #menu{
      font-family: 'Special Elite', cursive;
+      font-size: 35px;
      
+ }
+/*#pic1{ height: 10px;
+ width:10px;
+ }
+  #pic2{ 
+   height: 10px;
+   width: 10px;
+   
+  
+ }
+  #pic3{
+  height: 10px;
+  width: 100px;
+ }*/
+ body{
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 12px;
+ }
+/* .carousel-inner{
+  height: 20px;
+  width:20px;
  }
 
 /* About Section CSS */

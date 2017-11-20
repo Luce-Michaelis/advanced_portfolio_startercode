@@ -17,9 +17,9 @@
 
 
 // Create your potrfolio object representation below
-
-
-
+$('#myCarousel').on('slide.bs.carousel', function () {
+  // do something…
+})
 
 
 
